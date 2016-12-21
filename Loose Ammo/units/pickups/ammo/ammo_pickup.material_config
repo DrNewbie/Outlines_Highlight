@@ -1,0 +1,19 @@
+<materials version="3">
+    <material name="ammo_pickup" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/pickups/ammo/ammo_pickup_df"/>
+        <bump_normal_texture file="units/pickups/ammo/ammo_pickup_nm"/>
+	<variable value="1 0 0" type="vector3" name="contour_color"/>
+		
+	<variable value="1" type="scalar" name="contour_opacity"/>
+
+    </material>
+    <material name="ammo_pickup_lod" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" version="2">
+        <variable value="0" type="scalar" name="specular_power"/>
+        <diffuse_texture file="units/pickups/ammo/ammo_pickup_df"/>
+	<variable value="0 0 1" type="vector3" name="contour_color"/>
+		
+	<variable value="1" type="scalar" name="contour_opacity"/>
+
+    </material>
+</materials>

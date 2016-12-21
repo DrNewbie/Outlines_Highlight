@@ -1,0 +1,9 @@
+<materials version="3">
+	<material name="mtr_exp" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_steel/weapons/wpn_prj_frankish_arrow_exp/arrow_df" />
+		<bump_normal_texture file="units/pd2_dlc_steel/weapons/wpn_prj_frankish_arrow_exp/arrow_nm" />
+		<variable value="1 0 0" type="vector3" name="contour_color"/>
+		
+	<variable value="1" type="scalar" name="contour_opacity"/>
+</material>
+</materials>
