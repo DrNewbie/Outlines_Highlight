@@ -1,0 +1,7 @@
+<materials version="3" group="gen_pku_keycard">
+    <material name="mtr_card" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2">
+        <diffuse_texture file="units/payday2/equipment/gen_interactable_door_keycard/keycard_df"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+</materials>
