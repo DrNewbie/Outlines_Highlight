@@ -1,0 +1,7 @@
+	<materials version="3">
+    <material name="toothbrush" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" version="2" unique="true">
+        <diffuse_texture file="units/world/props/giant_toothbrush/giant_toothbrush_df"/>
+		<variable value="1" type="scalar" name="contour_opacity"/>
+		<variable value="1 0.5 0.0" type="vector3" name="contour_color"/>
+    </material>
+</materials>
