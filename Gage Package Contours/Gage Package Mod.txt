@@ -1,0 +1,10 @@
+This mod was made by Corphix http://steamcommunity.com/id/Corphix
+
+To install, open the zip file, and place the folder in:
+"C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides"
+
+This mod is provided "as is" and the creator takes no responsibility for it's use.
+You may feel free to change the mod, provided original credit is given.
+This mod was created for Last Bullet Gaming http://forums.lastbullet.net/ and is free.
+
+Mod requests can be left on my steam page http://steamcommunity.com/id/Corphix
