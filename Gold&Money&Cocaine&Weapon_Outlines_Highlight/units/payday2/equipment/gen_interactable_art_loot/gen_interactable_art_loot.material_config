@@ -1,0 +1,9 @@
+<materials version="3">
+	<material name="mtr_painting" unique="true" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" version="2" >
+		<diffuse_texture file="units/payday2/props/com_prop_gallery_paintings/com_prop_gallery_paintingrenaissance_df"/>
+        <bump_normal_texture file="units/payday2/props/com_prop_gallery_paintings/com_prop_gallery_paintingrenaissance_nm"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<!-- <material name="shadow_caster" render_template="shadow_caster_only" version="2"/> -->
+</materials>
