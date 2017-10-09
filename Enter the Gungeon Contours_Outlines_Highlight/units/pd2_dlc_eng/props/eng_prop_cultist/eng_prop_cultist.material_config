@@ -1,0 +1,42 @@
+<materials version="3">
+    <material version="2" render_template="generic:CONTOUR:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" unique="true" name="mat_cultist" src="GLOBAL">
+        <diffuse_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_df"/>
+        <bump_normal_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_nm"/>
+        <material_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_gsma"/>
+        <self_illumination_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_il"/>
+        <variable type="scalar" name="il_multiplier" value="sun"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP:SELF_ILLUMINATION" name="mat_cultist_lod_1" version="2">
+        <diffuse_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_df" mip="2"/>
+        <bump_normal_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_nm" mip="2"/>
+        <material_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_gsma" mip="2"/>
+        <self_illumination_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_il"/>
+        <variable type="scalar" name="il_multiplier" value="sun"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP:SELF_ILLUMINATION" name="mat_cultist_lod_2" version="2">
+        <diffuse_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_nm" mip="4"/>
+        <material_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_gsma" mip="4"/>
+        <self_illumination_texture file="units/pd2_dlc_eng/props/eng_prop_cultist/eng_prop_cultist_il"/>
+        <variable type="scalar" name="il_multiplier" value="sun"/>
+    </material>
+    <material render_template="generic:CONTOUR:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:NORMALMAP" unique="true" name="mat_trophy_base" version="2">
+        <diffuse_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_df"/>
+        <bump_normal_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_nm"/>
+        <material_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_gsma"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_trophy_base_lod_1" version="2">
+        <diffuse_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_df" mip="2"/>
+        <bump_normal_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_nm" mip="2"/>
+        <material_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_gsma" mip="2"/>
+    </material>
+    <material render_template="generic:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_trophy_base_lod_2" version="2">
+        <diffuse_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_nm" mip="4"/>
+        <material_texture file="units/pd2_dlc_eng/props/eng_prop_bullet/eng_prop_trophy_base_gsma" mip="4"/>
+    </material>
+</materials>
