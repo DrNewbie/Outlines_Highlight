@@ -12,6 +12,7 @@
 *   [Gold & Money & Cocaine & Weapon](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Gold%26Money%26Cocaine%26Weapon_Outlines_Highlight)
 *   [Ingredient](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Ingredient_Outlines_Highlight)
 *   [Keycard](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Keycard_Outlines_Highlight)
+*   [Murky Uniform](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Murky_Uniform_Outlines_Highlight)
 *   [Loose Ammo](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Loose%20Ammo_Outlines_Highlight)
 *   [Planks](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Planks_Outlines_Highlight)
 *   [Ring(jerry)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Ring(jerry)_Outlines_Highlight)
