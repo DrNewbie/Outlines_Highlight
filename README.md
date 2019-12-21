@@ -10,6 +10,7 @@
 *   [Gage Package](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Gage%20Package_Outlines_Highlight)
 *   [Gas can](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Gas%20can_Outlines_Highlight)
 *   [Gold & Money & Cocaine & Weapon](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Gold%26Money%26Cocaine%26Weapon_Outlines_Highlight)
+*   [Golden Grin Casino Code Briefcase](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Golden_Grin_Casino_Code_Briefcase_Outlines_Highlight)
 *   [Ingredient](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Ingredient_Outlines_Highlight)
 *   [Keycard](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Keycard_Outlines_Highlight)
 *   [Murky Uniform](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Murky_Uniform_Outlines_Highlight)
