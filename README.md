@@ -1,10 +1,10 @@
 # Outlines Highlight
 
 ## Download
-
-*   [Arrow_Outlines](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Arrow_Outlines_Highlight)
-*   [Camera_Outlines](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Camera_Outlines_Highlight)
-*   [Crowbars_Outlines](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Crowbars_Outlines_Highlight)
+*   [Arbiter Grenade Launcher Parts Highlight](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Arbiter_Grenade_Launcher_Parts_Outlines_Highlight)
+*   [Arrow ](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Arrow_Outlines_Highlight)
+*   [Camera ](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Camera_Outlines_Highlight)
+*   [Crowbars ](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Crowbars_Outlines_Highlight)
 *   [Enter the Gungeon Contours](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Enter%20the%20Gungeon%20Contours_Outlines_Highlight)
 *   [Flashbangs](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Flashbangs_Outlines_Highlight)
 *   [Gage Package](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/DrNewbie/Outlines_Highlight/tree/master/Gage%20Package_Outlines_Highlight)
