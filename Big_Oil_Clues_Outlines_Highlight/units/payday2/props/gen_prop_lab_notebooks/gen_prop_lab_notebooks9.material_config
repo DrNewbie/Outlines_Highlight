@@ -1,0 +1,7 @@
+<materials version="3" group="notebook">
+    <material name="mtr_notebook" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/payday2/props/gen_prop_lab_notebooks/notebook_9_df"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+</materials>
