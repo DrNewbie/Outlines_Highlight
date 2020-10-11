@@ -1,0 +1,14 @@
+<materials version="3">
+	<material render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE:DIFFUSE0_UVANIM" name="mat_pex_effect" version="2">
+        <diffuse_texture file="units/pd2_dlc_pex/props/pex_props_federali_chief_medal/mat_effect_yellow_df"/>
+        <variable type="scalar" name="intensity" value="monitor"/>
+        <variable type="vector3" name="uv0_speed" value="0 1.0080000162125 0"/>
+    </material>
+	<material name="mat_pex_medal" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2">
+		<diffuse_texture file="units/pd2_dlc_pex/props/pex_props_federali_chief_medal/pex_props_federali_chief_medal_df" />
+		<bump_normal_texture file="units/pd2_dlc_pex/props/pex_props_federali_chief_medal/pex_props_federali_chief_medal_nm" />
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+</materials>
