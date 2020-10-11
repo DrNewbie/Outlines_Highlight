@@ -1,0 +1,11 @@
+<materials version="3">
+    <material name="nick_street" render_template="generic:DIFFUSE_TEXTURE" unique="true" version="2">
+        <diffuse_texture file="units/world/props/nick/nick_street_df"/>
+    </material>
+	
+	<material name="nick_street_decal" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2">
+        <diffuse_texture file="units/world/props/nick/nick_street_df"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+</materials>
