@@ -4,4 +4,9 @@
 		<variable name="contour_color" value="1 1 1" type="vector3"/>
 		<variable name="contour_opacity" value="1" type="scalar"/>
     </material>
+    <material name="mtr_card_generic" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2">
+		<diffuse_texture file="units/payday2/pickups/gen_pku_keycard/keycard_generic_df" />
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
 </materials>

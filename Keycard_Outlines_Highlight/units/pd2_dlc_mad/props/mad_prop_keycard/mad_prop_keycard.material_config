@@ -1,0 +1,7 @@
+<materials version="3">
+	<material name="keycard_mtl" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2">
+		<diffuse_texture file="units/pd2_dlc_mad/props/mad_prop_keycard/keycard_df" />
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+</materials>
