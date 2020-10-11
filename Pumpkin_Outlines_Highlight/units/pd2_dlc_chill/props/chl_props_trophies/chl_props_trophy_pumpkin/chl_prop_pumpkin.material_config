@@ -1,0 +1,19 @@
+<materials version="3">
+    <material name="mat_pumpkin" render_template="generic:CONTOUR:DIFFUSE_TEXTURE" unique="true" version="2">
+        <diffuse_texture file="units/pd2_dlc_chill/props/chl_prop_pumpkin/chl_prop_pumpkin_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_chill/props/chl_prop_pumpkin/chl_prop_pumpkin_nm" mip="4"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+    
+        <material render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" name="mat_trophy_base" version="2">
+        <diffuse_texture file="units/pd2_dlc_chill/props/chl_props_trophies/chl_prop_trophy_base/chl_prop_trophy_base_df" mip="4"/>
+        <bump_normal_texture file="units/pd2_dlc_chill/props/chl_props_trophies/chl_prop_trophy_base/chl_prop_trophy_base_nm" mip="4"/>
+        <material_texture file="units/pd2_dlc_chill/props/chl_props_trophies/chl_prop_trophy_base/chl_prop_trophy_base_gsma" mip="4"/>
+        <reflection_texture file="environments/cubemaps/cubemap_gold" type="cubemap"/>
+    </material>
+
+    <material render_template="decal:DIFFUSE_TEXTURE" name="mat_ao" version="2">
+        <diffuse_texture file="units/pd2_dlc_chill/architecture/chl_int_mullplan/ch_int_mullplan_circle_df" mip="4"/>
+    </material>
+</materials>
