@@ -1,0 +1,16 @@
+<materials version="3">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" name="mtr_prop_christmas_gift" version="2">
+        <diffuse_texture file="units/pd2_dlc_xm20/props/xmn_prop_christmas_gift/xmn_prop_christmas_gift_df"/>
+        <bump_normal_texture file="units/pd2_dlc_xm20/props/xmn_prop_christmas_gift/xmn_prop_christmas_gift_nm"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+    <material unique="true" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" name="mtr_mask" version="2">
+        <diffuse_texture file="units/pd2_dlc_max/masks/mask_max_diffuse_df"/>
+        <bump_normal_texture file="units/pd2_dlc_max/masks/mask_max_diffuse_nm"/>
+    </material>
+    <material unique="true" render_template="effect:BLEND_ADD:DIFFUSE0_TEXTURE" name="mtr_glow" version="2">
+        <diffuse_texture file="units/pd2_dlc_xm20/masks/msk_xm20_mega_max/msk_xm20_mega_max_il"/>
+        <variable type="scalar" name="intensity" value="searchlight"/>
+    </material>
+</materials>
