@@ -1,0 +1,14 @@
+{
+	"name": "Shadow Cloakers Also Drops Ammo",
+	"description": "A mod that enables the cloakers in the secret chamber to drop ammo when killed",
+	"author": "Berk_Rider",
+	"contact": "https://modworkshop.net/user/28908 (don't expect a quick answer)",
+	"version": "1.0",
+	"priority": 10,
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/charactertweakdata",
+			"script_path": "charactertweakdata.lua"
+		}
+	]
+}
