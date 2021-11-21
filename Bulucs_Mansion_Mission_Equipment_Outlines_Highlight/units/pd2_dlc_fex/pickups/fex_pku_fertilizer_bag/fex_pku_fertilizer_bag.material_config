@@ -1,0 +1,14 @@
+<materials version="3">
+    <material render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" name="mtr_graphics" version="2">
+        <diffuse_texture file="units/pd2_dlc_fex/pickups/fex_pku_fertilizer_bag/fex_pku_fertilizer_bag_df"/>
+        <bump_normal_texture file="units/pd2_dlc_fex/pickups/fex_pku_fertilizer_bag/fex_pku_fertilizer_bag_nm"/>
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+    </material>
+	<material name="mtr_outline" unique="true" version="2" render_template="generic:ALPHA_MASKED:CONTOUR:DIFFUSE_TEXTURE:OPACITY_TEXTURE">
+        <diffuse_texture file="units/white_df"/>
+        <variable value="1 1 0" type="vector3" name="contour_color"/>
+        <variable value="1" type="scalar" name="contour_opacity"/>
+        <opacity_texture file="units/transparent_op"/>
+    </material>
+</materials>

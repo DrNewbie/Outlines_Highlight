@@ -1,0 +1,11 @@
+<materials version="3">
+	<material name="mat_clipboard" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_fex/props/fex_prop_guard_list/fex_prop_guard_list_clipboard_df" />
+		<bump_normal_texture file="units/pd2_dlc_bex/props/bex_prop_vault_duty_schedule/bex_prop_vault_duty_schedule_nm" />
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<material name="mtr_text" render_template="decal:DIFFUSE_TEXTURE" version="2">
+		<diffuse_texture file="units/pd2_dlc_fex/props/fex_prop_wine_cellar_note_code/fex_prop_wine_cellar_note_code_df" />
+	</material>
+</materials>
