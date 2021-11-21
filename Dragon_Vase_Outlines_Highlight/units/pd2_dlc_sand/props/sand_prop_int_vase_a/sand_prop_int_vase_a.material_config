@@ -1,0 +1,17 @@
+<materials version="3">
+	<material decal_material="marble" name="mat_vase_a" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_sand/props/sand_prop_int_vase_a/sand_prop_int_vase_a_df" />
+		<material_texture file="units/pd2_dlc_sand/props/sand_prop_int_vase_a/sand_prop_int_vase_a_gsma" />
+		<bump_normal_texture file="units/pd2_dlc_sand/props/sand_prop_int_vase_a/sand_prop_int_vase_a_nm" />
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<material decal_material="marble" name="mat_vase_a_lod" render_template="generic:CONTOUR:DIFFUSE_TEXTURE:GSMA_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_sand/props/sand_prop_int_vase_a/sand_prop_int_vase_a_df" mip="4" />
+		<material_texture file="units/pd2_dlc_sand/props/sand_prop_int_vase_a/sand_prop_int_vase_a_gsma" mip="4" />
+		<bump_normal_texture file="units/pd2_dlc_sand/props/sand_prop_int_vase_a/sand_prop_int_vase_a_nm" mip="4" />
+		<variable name="contour_color" value="1 1 1" type="vector3"/>
+		<variable name="contour_opacity" value="1" type="scalar"/>
+	</material>
+	<material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+</materials>
